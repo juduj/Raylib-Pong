@@ -1,0 +1,3 @@
+﻿  PongRL.cpp
+C:\Users\Robed\Downloads\Pong-RL-main\Pong-RL-main\PongRL\PongRL.cpp(190,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PongRL.vcxproj -> C:\Users\Robed\Downloads\Pong-RL-main\Pong-RL-main\x64\Debug\PongRL.exe
